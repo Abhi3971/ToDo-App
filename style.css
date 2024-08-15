@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./img/pexels-content-pixie-1405717-2736499.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+.task h2{
+    margin: 25px;
+}
+
+.task input{
+    margin-left: 216px;
+    position: relative;
+    bottom: 58px;
+    background-color: lightgray;
+}
+.task button{
+    text-align: center;
+    border: 1px solid black;
+    background-color: lightgoldenrodyellow;
+    border-radius: 50px;
+    border-width: 0;
+    height: 40px;
+    font-size: 16px;
+}
+
+.add li{
+    margin: 25px;
+    font-size: 25px;
+}
+
+.delete{
+    text-align: center;
+    border: 1px solid black;
+    background-color: lightgoldenrodyellow;
+    border-radius: 50px;
+    border-width: 0;
+    height: 40px;
+    font-size: 16px;
+}
